@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/test3.jpg "Sample Output"
+[image1]: ./test_images/test3.jpg "Sample Output"
 [image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
